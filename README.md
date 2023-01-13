@@ -1,11 +1,9 @@
-# Current-Projects
+# Current-Projects | Portfolio
 
 
-Primarily used as a portfolio.
+Welcome! Come check out some of my current projects.
 
-School Projects will be seperate from these and private.
-
-Also going to be used as a form of referrence as I progress in skill.
+School projects will be seperate from these and private.
 
 All projects are a work in progress, I primarily use vscode and xcode.
 
